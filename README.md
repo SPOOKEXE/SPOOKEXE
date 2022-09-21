@@ -37,6 +37,7 @@ My Roblox Developer Forum Portfolios can also be found at:
 <img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/eclipse-icon.png"/>
 <img align="left" alt="Roblox Studio" width="30px" style="padding-right:10px;" src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/1/c/e/1ce62017c66b9c78a1fba699d0d901a445b286d2.png" />
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
 <br />
 
@@ -57,9 +58,9 @@ My Roblox Developer Forum Portfolios can also be found at:
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 
 **EXTRA**
+<img align="left" alt="Rojo" width="30px" style="padding-right:10px;" src="https://rojo.space/assets/images/logo-151511d418967797798e02dc0ca74aaf.png" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="SSH" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
 <img align="left" alt="VirtualBox" width="30px" style="padding-right:10px;" src="https://computingforgeeks.com/wp-content/uploads/2016/03/virtualbox.png" />
 </p>
