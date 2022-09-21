@@ -7,9 +7,9 @@ My Roblox Developer Forum Portfolios can also be found at:
 - https://www.bloxfol.io/p/1041213550
 
  <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://www.youtube.com/c/spook_exe?sub_confirmation=1">
          <img alt="youtube subscribers" title="YouTube Subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEwgh-qSICxQ0dHpwBOCXIg?color=%23E05D44&label=SUBSCRIBERS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
+      <a href="https://www.youtube.com/c/spook_exe">
          <img alt="youtube views" title="YouTube Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCEwgh-qSICxQ0dHpwBOCXIg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/SPOOKEXE?tab=followers">
          <img alt="followers" title="Github Followers" src="https://custom-icon-badges.demolab.com/github/followers/SPOOKEXE?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
