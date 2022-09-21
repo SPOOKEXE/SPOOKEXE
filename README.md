@@ -2,7 +2,9 @@
 
 I am primarily a Game Developer on the ROBLOX Platform, however, I have also explored other languages and tools to improve my skills and knowledge across the full development stack. The majority of my projects are all done by me, some following and expanding on basic tutorials, such as the *PortfolioWebsite* repository. I also stream and upload videos on my YouTube channel [SPOOK_EXE][youtube] and Twitch [rbxSPOOK_EXE][twitch].
 
-My Roblox Developer Forum Portfolio can also be found at https://devforum.roblox.com/t/spook-scripter-portfolio-compact/1465028
+My Roblox Developer Forum Portfolios can also be found at:
+- https://devforum.roblox.com/t/spook-scripter-portfolio-compact/1465028
+- https://www.bloxfol.io/p/1041213550
 
  <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
