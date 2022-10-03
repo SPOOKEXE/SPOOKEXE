@@ -39,7 +39,7 @@ My Roblox Developer Forum Portfolios can also be found at:
 <img align="left" alt="Roblox Studio" width="30px" style="padding-right:10px;" src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/1/c/e/1ce62017c66b9c78a1fba699d0d901a445b286d2.png" />
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="CLion" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/344/c-plus-plus-logo.png" />
+<img align="left" alt="CLion" width="30px" style="padding-right:10px;" src="https://insmac.org/uploads/posts/2017-08/1503166470_clion.png" />
 
 </p>
 <br />
@@ -54,7 +54,7 @@ My Roblox Developer Forum Portfolios can also be found at:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Processing" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-plain-wordmark.svg" />
-<img align="left" alt="CPlusPlus" width="30px" style="padding-right:10px;" src="https://insmac.org/uploads/posts/2017-08/1503166470_clion.png" />
+<img align="left" alt="CPlusPlus" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/344/c-plus-plus-logo.png" />
 
 **WEBSITES**
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
