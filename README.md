@@ -32,24 +32,29 @@ My Roblox Developer Forum Portfolios can also be found at:
 
 ### 🧰 Platforms / IDEs
 <p align="left">
+
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> 
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 <img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/eclipse-icon.png"/>
 <img align="left" alt="Roblox Studio" width="30px" style="padding-right:10px;" src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/1/c/e/1ce62017c66b9c78a1fba699d0d901a445b286d2.png" />
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="CLion" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/344/c-plus-plus-logo.png" />
+
 </p>
 <br />
 
 ### 🧰 Languages/Tools
+
 <p align="left">
 
- **PROGRAMMING**
+**PROGRAMMING**
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Processing" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-plain-wordmark.svg" />
+<img align="left" alt="CPlusPlus" width="30px" style="padding-right:10px;" src="https://insmac.org/uploads/posts/2017-08/1503166470_clion.png" />
 
 **WEBSITES**
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -63,6 +68,7 @@ My Roblox Developer Forum Portfolios can also be found at:
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="SSH" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
 <img align="left" alt="VirtualBox" width="30px" style="padding-right:10px;" src="https://computingforgeeks.com/wp-content/uploads/2016/03/virtualbox.png" />
+
 </p>
 <br />
 
