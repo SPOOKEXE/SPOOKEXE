@@ -40,7 +40,7 @@ Contact me on discord or twitter!
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> 
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 <img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/eclipse-icon.png"/>
-<img align="left" alt="Roblox Studio" width="30px" style="padding-right:10px;" src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/1/c/e/1ce62017c66b9c78a1fba699d0d901a445b286d2.png" />
+<img align="left" alt="Roblox Studio" width="30px" style="padding-right:10px;" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/optimized/4X/6/2/f/62f64963b3b8eda573996bdfb646729e818ef77b_2_500x500.png" />
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="CLion" width="30px" style="padding-right:10px;" src="https://insmac.org/uploads/posts/2017-08/1503166470_clion.png" />
