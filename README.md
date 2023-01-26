@@ -10,6 +10,9 @@ Contact me on discord or twitter!
 - Discord: SPOOK_EXE#0680 | 572018169229869057
 - Twitter: [@SPOOKEXE1](https://twitter.com/SPOOKEXE1)
 
+Commission/Job Prices can be found at the following google document:
+- https://docs.google.com/document/d/1xdTnGp5dFy1PLzoTojVB04C0Fz4OVT0c4ZZyHhT6l_s/edit?usp=sharing
+
  <p align="left">
       <a href="https://www.youtube.com/c/spook_exe?sub_confirmation=1">
          <img alt="youtube subscribers" title="YouTube Subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEwgh-qSICxQ0dHpwBOCXIg?color=%23E05D44&label=SUBSCRIBERS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
