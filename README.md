@@ -4,7 +4,6 @@ I am primarily a Game Developer on the ROBLOX Platform, however, I have also exp
 
 My Roblox Developer Forum Portfolios can also be found at:
 - https://devforum.roblox.com/t/spook-scripter-portfolio-compact/1465028
-- https://www.bloxfol.io/p/1041213550
 
 Contact me on discord or twitter!
 - Discord: SPOOK_EXE#0680 | 572018169229869057
