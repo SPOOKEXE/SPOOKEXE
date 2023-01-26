@@ -2,12 +2,13 @@
 
 I am primarily a Game Developer on the ROBLOX Platform, however, I have also explored other languages and tools to improve my skills and knowledge across the full development stack. The majority of my projects are all done by me, some following and expanding on basic tutorials, such as the *PortfolioWebsite* repository. I also stream and upload videos on my YouTube channel [SPOOK_EXE][youtube] and Twitch [rbxSPOOK_EXE][twitch].
 
-My Roblox Developer Forum Portfolios can also be found at:
+Note: not all of my most recent projects are public here, my code may have changed to the last most up-to-date public project.
+
+My Roblox Developer Forum Portfolio can also be found at:
 - https://devforum.roblox.com/t/spook-scripter-portfolio-compact/1465028
 
-Contact me on discord or twitter!
+Contact me on discord!
 - Discord: SPOOK_EXE#0680 | 572018169229869057
-- Twitter: [@SPOOKEXE1](https://twitter.com/SPOOKEXE1)
 
 Commission Information can be found at the following google document:
 - https://docs.google.com/document/d/1xdTnGp5dFy1PLzoTojVB04C0Fz4OVT0c4ZZyHhT6l_s/edit?usp=sharing
