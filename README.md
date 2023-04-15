@@ -13,6 +13,8 @@ Contact me on discord!
 Commission Information can be found at the following google document:
 - https://docs.google.com/document/d/1xdTnGp5dFy1PLzoTojVB04C0Fz4OVT0c4ZZyHhT6l_s/edit?usp=sharing
 
+**COMMISSION STATUS: OPEN (short/mid term)**
+
  <p align="left">
       <a href="https://www.youtube.com/c/spook_exe?sub_confirmation=1">
          <img alt="youtube subscribers" title="YouTube Subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEwgh-qSICxQ0dHpwBOCXIg?color=%23E05D44&label=SUBSCRIBERS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
