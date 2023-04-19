@@ -13,7 +13,7 @@ Contact me on discord!
 Commission Information can be found at the following google document:
 - https://docs.google.com/document/d/1xdTnGp5dFy1PLzoTojVB04C0Fz4OVT0c4ZZyHhT6l_s/edit?usp=sharing
 
-**COMMISSION STATUS: OPEN (short/mid term)**
+**COMMISSION STATUS: CLOSED**
 
  <p align="left">
       <a href="https://www.youtube.com/c/spook_exe?sub_confirmation=1">
