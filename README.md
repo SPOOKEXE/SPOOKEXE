@@ -77,7 +77,6 @@ Commission Information can be found at the following google document:
    <img align="left" alt="CPlusPlus" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/344/c-plus-plus-logo.png" />
    <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
    <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
    <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
    <img align="left" alt="Rojo" width="40px" style="padding-right:10px;padding-top:10px;" src="https://rojo.space/assets/images/logo-151511d418967797798e02dc0ca74aaf.png" />
    <img align="left" alt="Knit" width="40px" style="padding-right:10px;padding-top:10px;" src="https://github.com/Sleitnick/Knit/blob/main/logo/thumbnail.png?raw=true" />
