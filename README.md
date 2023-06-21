@@ -8,7 +8,7 @@ My Roblox Developer Forum Portfolio can also be found at:
 - https://devforum.roblox.com/t/spook-scripter-portfolio-compact/1465028
 
 Contact me on discord!
-- Discord: SPOOK_EXE#0680 | 572018169229869057
+- Discord: spook_exe | 572018169229869057
 
 Commission Information can be found at the following google document:
 - https://docs.google.com/document/d/1xdTnGp5dFy1PLzoTojVB04C0Fz4OVT0c4ZZyHhT6l_s/edit?usp=sharing
