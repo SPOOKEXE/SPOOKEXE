@@ -9,6 +9,7 @@ My Roblox Developer Forum Portfolio can also be found at:
 
 Contact me on discord!
 - Discord: spook_exe | 572018169229869057
+- My Server: https://discord.gg/Zx3JD7wb8X (SPOOK Games)
 
 Commission Information can be found at the following google document:
 - https://docs.google.com/document/d/1xdTnGp5dFy1PLzoTojVB04C0Fz4OVT0c4ZZyHhT6l_s/edit?usp=sharing
@@ -61,7 +62,6 @@ Commission Information can be found at the following google document:
    <img align="left" alt="Roblox Studio" width="30px" style="padding-right:10px;" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/optimized/4X/6/2/f/62f64963b3b8eda573996bdfb646729e818ef77b_2_500x500.png" />
    <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
    <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-   <img align="left" alt="CLion" width="30px" style="padding-right:10px;" src="https://insmac.org/uploads/posts/2017-08/1503166470_clion.png" />
 </p>
 
 <br />
