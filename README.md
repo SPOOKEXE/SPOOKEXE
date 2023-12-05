@@ -71,15 +71,17 @@ My main development tools are as listed below:
 ## Contact Me
 
 Discord: **spook_exe** ( **572018169229869057** )
-Discord Server: [SPOOK Games](https://discord.gg/Zx3JD7wb8X)
 
+Discord Server: [SPOOK Games](https://discord.gg/Zx3JD7wb8X)
 
 ## Additional Links:
 
 [Devforum Portfolio](https://devforum.roblox.com/t/spook-scripter-portfolio-compact/1465028)
+
 <img src="docs/devforum.png" alt="Devforum Portfolio Page" width="300"/>
 
 [Commission Sheet](https://devforum.roblox.com/t/spook-scripter-portfolio-compact/1465028)
+
 <img src="docs/commsheet.png" alt="Commission Sheet Page" width="300"/>
 
 ---
