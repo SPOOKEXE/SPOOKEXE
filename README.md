@@ -47,7 +47,7 @@ My main development tools are as listed below:
 	<img alt="LuaU" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/2048px-Luau_Logo_%28Programming_Language%29.svg.png" />
 	<img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 	<img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-	<img alt="Processing" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-plain-wordmark.svg" />
+	<img alt="Processing" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png" />
 	<img alt="CPlusPlus" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/344/c-plus-plus-logo.png" />
 	<img alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 	<img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
