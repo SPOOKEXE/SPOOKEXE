@@ -10,7 +10,7 @@ The majority of my programming and coding projects in my repositories are done b
 Some areas I have explored and developed in:
 - *Full-Stack Game Developer on ROBLOX*
 - *Multi-Language Programming*
-- *Artificial Intelligence*
+- *Artificial Intelligence & Applications of AI*
 - *General Tool Creation*
 - *Neuroscience*
 - *Hacking*
