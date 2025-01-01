@@ -3,7 +3,7 @@
 
 Hey, I'm SPOOK_EXE!
 
-I'm primarily a full-stack game developer on the ROBLOX platform, however, I have also expanded my toolset to improve my skills and knowledge across the development stack.
+I'm primarily a full-stack game developer on the ROBLOX platform, however, I have also expanded my toolset across many languages.
 
 The majority of my programming and coding projects in my repositories are done by me.
 
@@ -12,7 +12,6 @@ Some areas I have explored and developed in:
 - *Multi-Language Programming*
 - *Artificial Intelligence & Applications of AI*
 - *General Tool Creation*
-- *Neuroscience*
 - *Hacking*
 - *Automation*
 
@@ -43,7 +42,6 @@ My main development tools are as listed below:
 #### 🧰 Languages
 
 <p align="left" style="padding-top:0px;">
-	<img alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />
 	<img alt="LuaU" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/2048px-Luau_Logo_%28Programming_Language%29.svg.png" />
 	<img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 	<img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -56,33 +54,19 @@ My main development tools are as listed below:
 #### 🧰 Tools
 
 <p align="left" style="padding-top:0px;">
-	<img alt="Flask" width="25px" style="padding-right:10px;" src="docs/flash_icon_white.png" />
 	<img alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
 	<img alt="Rojo" width="50px" style="padding-right:10px;padding-top:10px;" src="https://rojo.space/assets/images/logo-151511d418967797798e02dc0ca74aaf.png" />
 	<img alt="Knit" width="50px" style="padding-right:10px;padding-top:10px;" src="https://github.com/Sleitnick/Knit/blob/main/logo/thumbnail.png?raw=true" />
-	<img alt="PyTorch" width="25px" style="padding-right:10px;padding-top:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" />
-	<img alt="Tensorflow" width="25px" style="padding-right:10px;padding-top:10px;" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254442/tensorflow-icon-md.png" />
 	<img alt="PyGame" width="25px" style="padding-right:10px;padding-top:10px;" src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" />
-	<img alt="OpenGL" width="50px" style="padding-right:10px;padding-top:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/2560px-Opengl-logo.svg.png" />
 </p>
 
 <div>
 
 ## Contact Me
 
-Discord: **spook_exe** ( **572018169229869057** )
-
 Discord Server: [SPOOK Games](https://discord.gg/Zx3JD7wb8X)
 
-## Additional Links:
-
-[Devforum Portfolio](https://devforum.roblox.com/t/spook-scripter-portfolio-compact/1465028)
-
-<img src="docs/devforum.png" alt="Devforum Portfolio Page" width="300"/>
-
-[Commission Sheet](https://devforum.roblox.com/t/spook-scripter-portfolio-compact/1465028)
-
-<img src="docs/commsheet.png" alt="Commission Sheet Page" width="300"/>
+Discord: **spook_exe** ( **572018169229869057** )
 
 ---
 
