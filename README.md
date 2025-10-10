@@ -14,6 +14,7 @@ Some areas I have explored and developed in:
 - *General Tool Creation*
 - *Hacking*
 - *Automation*
+- *Prompt Engineering*
 
 *Note: The code in my repositories may not all be up-to-date and matching across the board as some projects were created before others.*
 
