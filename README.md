@@ -9,27 +9,26 @@ The majority of my programming and coding projects in my repositories are done b
 
 Some areas I have explored and developed in:
 - *Full-Stack Game Developer on ROBLOX*
-- *Multi-Language Programming*
-- *Artificial Intelligence & Applications of AI*
-- *General Tool Creation*
+- *General Programming*
+- *Artificial Intelligence Development & Applications of AI*
+- *Tool Creation*
 - *Hacking*
 - *Automation*
 - *Prompt Engineering*
+- *Minecraft Modding*
 
 *Note: The code in my repositories may not all be up-to-date and matching across the board as some projects were created before others.*
 
 My main development tools are as listed below:
 
-#### 🧰 Operating Systems
+#### 🧰 Operating System
 <p align="left">
-	<img alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-	<img alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+	<img alt="Linux Mint" width="50px" style="padding-right:10px;" src="https://imgs.search.brave.com/X6m0NwBntuIZjw2Raxo7K7eIPz8wqPIZYMzUEN9Uxj0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaWNvbi1pY29u/cy5jb20vMjEwOC9Q/TkcvNTEyL2xpbnV4/X21pbnRfaWNvbl8x/MzA4ODYucG5n" />
 </p>
 
 #### 🧰 Project Management
 <p align="left">
 	<img alt="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-	<img alt="Hack-N-Plan" width="30px" style="padding-right:10px;" src="https://hacknplan.com/wp-content/uploads/2016/05/icon_web.png" />
 </p>
 
 #### 🧰 Platforms / IDEs
@@ -47,7 +46,6 @@ My main development tools are as listed below:
 	<img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 	<img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 	<img alt="Processing" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png" />
-	<img alt="CPlusPlus" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/344/c-plus-plus-logo.png" />
 	<img alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 	<img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </p>
@@ -56,9 +54,8 @@ My main development tools are as listed below:
 
 <p align="left" style="padding-top:0px;">
 	<img alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
-	<img alt="Rojo" width="50px" style="padding-right:10px;padding-top:10px;" src="https://rojo.space/assets/images/logo-151511d418967797798e02dc0ca74aaf.png" />
-	<img alt="Knit" width="50px" style="padding-right:10px;padding-top:10px;" src="https://github.com/Sleitnick/Knit/blob/main/logo/thumbnail.png?raw=true" />
-	<img alt="PyGame" width="25px" style="padding-right:10px;padding-top:10px;" src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" />
+	<img alt="Rojo" width="45px" style="padding-right:10px;padding-top:10px;" src="https://rojo.space/assets/images/logo-151511d418967797798e02dc0ca74aaf.png" />
+	<img alt="PyTorch" width="30px" style="padding-right:10px;padding-top:10px;" src="https://imgs.search.brave.com/1vl0EzY4AeVnaWLLmYaZmu4nEWz2BqOz-2731enAy7U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8zNTQyNDAv/cHl0b3JjaC5zdmc" />
 </p>
 
 <div>
@@ -103,9 +100,4 @@ Discord: **spook_exe** ( **572018169229869057** )
 		<img alt="GitHub Total Stars" title="Stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SPOOKEXE?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 	</a>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spookexe&langs_count=10&title_color=FC0000&text_color=ffffff&icon_color=FC0000&bg_color=151718&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-
-![SPOOKEXE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spookexe&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://streak-stats.demolab.com?user=SPOOKEXE&theme=gruvbox&border_radius=4.5)
 
