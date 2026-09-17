@@ -43,12 +43,14 @@ My main development tools are as listed below:
 #### 🧰 Languages
 
 <p align="left" style="padding-top:0px;">
-	<img alt="LuaU" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/2048px-Luau_Logo_%28Programming_Language%29.svg.png" />
+	<img alt="LuaU" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/104525888?s=200&v=4" />
 	<img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 	<img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 	<img alt="Processing" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Processing_3_logo.png" />
 	<img alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 	<img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+	<img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" />
+	<img alt="C++" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 </p>
 
 #### 🧰 Tools
