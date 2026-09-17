@@ -11,11 +11,12 @@ Some areas I have explored and developed in:
 - *Full-Stack Game Developer on ROBLOX*
 - *General Programming*
 - *Artificial Intelligence Development & Applications of AI*
-- *Tool Creation*
+- *CLI/GUI Tool Creation*
 - *Hacking*
 - *Automation*
 - *Prompt Engineering*
 - *Minecraft Modding*
+- *AI Project Director*: setting up projects for AI usage - files like AGENTS.md, CODE_QUALITY.md, etc for example.
 
 *Note: The code in my repositories may not all be up-to-date and matching across the board as some projects were created before others.*
 
