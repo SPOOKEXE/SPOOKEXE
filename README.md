@@ -6,7 +6,7 @@ I am a full-stack Roblox game developer, build game engines, developer tools and
 
 I integrate AI and agents into software, build them as part of the software, and explore a variety of desgins and concepts.
 
-[View my portfolio](https://spookexe.github.io/spookexe-portfolio/)
+[Portfolio Website](https://spookexe.github.io/spookexe-portfolio/)
 
 ---
 
